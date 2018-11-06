@@ -1,0 +1,11 @@
+[package]
+name = "token-expander"
+version = "0.1.0"
+authors = ["Michael Aaron Murphy <mmstickman@gmail.com>"]
+description = "tokenize and expand strings with shell-like expressions"
+keywords = ["tokenize", "expand"]
+categories = ["parsing"]
+license = "MIT"
+readme = "README"
+
+[dependencies]
