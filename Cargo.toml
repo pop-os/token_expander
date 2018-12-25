@@ -9,3 +9,5 @@ license = "MIT"
 readme = "README"
 
 [dependencies]
+smart-default = "0.3.0"
+derive-new = "0.5.6"
